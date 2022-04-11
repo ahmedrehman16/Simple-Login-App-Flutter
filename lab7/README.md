@@ -1,4 +1,4 @@
-# lab7
+# Simple-Login-App-Flutter
 
 A new Flutter project.
 
